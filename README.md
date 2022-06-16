@@ -1,4 +1,4 @@
-# Python_Framework_Skeleton
+# Python_Automation_Framework_Skeleton
 
 1. Framework is built using Selenium with python.
 2. This is a Platform independent Framework. (It should run on Windows, Mac, or Linux)
